@@ -1,0 +1,12 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>#**Harry J. Potter**
+<center>### The boy who lived and keeps on livin
+
+<center>![](pics/lion.JPG){width=250px}
+
+This is my blog about cool spells, catching snitches (balls and liars) and sweet stuff I do. 

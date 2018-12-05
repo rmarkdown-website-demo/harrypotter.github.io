@@ -1,0 +1,13 @@
+output_dir: "."
+navbar:
+    title: "Harry J. Potter"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Quidditch"
+        href: quidditch.html
+      - text: "About Me"
+        href: about.html
+    right:
+      - text: "Send me an Owl"
+        href: contact.html
